@@ -6,9 +6,9 @@ Este repositório armazena materiais do grupo de estudo de Estatística e Probab
 
 O repositório está organizado nas seguintes seções:
 
-- **`/resumos`**: Arquivos em Markdown (`.md`) contendo os resumos teóricos e anotações de cada aula.
-- **`/listas_de_exercicios`**: Documentos com os enunciados das listas de exercícios propostas para fixação do conteúdo.
-- **`/exercicios_resolvidos`**: Resoluções passo a passo.
+- **`/01_resumos`**: Arquivos em Markdown (`.md`) contendo os resumos teóricos e anotações de cada aula.
+- **`/02_listas_de_exercicios`**: Documentos com os enunciados das listas de exercícios propostas para fixação do conteúdo.
+- **`/03_exercicios_resolvidos`**: Resoluções passo a passo.
 
 ## 🚀 Tópicos Abordados até o momento
 
