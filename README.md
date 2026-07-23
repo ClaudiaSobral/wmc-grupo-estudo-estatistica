@@ -2,6 +2,8 @@
 
 Este repositório armazena materiais do grupo de estudo de Estatística e Probabilidade, estruturados a partir do curso gratuito do Téo Calvo [Estatística 2025](https://www.youtube.com/watch?v=4CcgZXXIl7o&list=PLvlkVRRKOYFQGIZdz7BycJet9OncyXlbq) no YouTube. O objetivo é documentar o aprendizado contínuo, consolidar a base teórica e praticar a resolução de problemas.
 
+Observação: este repositório teve como base o curso do Téo Calvo, mas todo os arquivos contidos nele foram criados de forma independente e não são responsabilidade do canal TeoMeWhy.
+
 ## 🗂️ Estrutura do Repositório
 
 O repositório está organizado nas seguintes seções:
