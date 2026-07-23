@@ -1,6 +1,6 @@
 # 📊 Estatística e Probabilidade
 
-Este repositório armazena materiais do grupo de estudo de Estatística e Probabilidade, estruturados a partir do curso gratuito do Téc Calvo [Estatística 2025]((https://www.youtube.com/watch?v=4CcgZXXIl7o&list=PLvlkVRRKOYFQGIZdz7BycJet9OncyXlbq)) no YouTube. O objetivo é documentar o aprendizado contínuo, consolidar a base teórica e praticar a resolução de problemas.
+Este repositório armazena materiais do grupo de estudo de Estatística e Probabilidade, estruturados a partir do curso gratuito do Téo Calvo [Estatística 2025](https://www.youtube.com/watch?v=4CcgZXXIl7o&list=PLvlkVRRKOYFQGIZdz7BycJet9OncyXlbq) no YouTube. O objetivo é documentar o aprendizado contínuo, consolidar a base teórica e praticar a resolução de problemas.
 
 ## 🗂️ Estrutura do Repositório
 
@@ -23,4 +23,4 @@ O repositório está organizado nas seguintes seções:
 
 1. Clone o repositório para a sua máquina local:
    ```bash
-   git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/ClaudiaSobral/wmc-grupo-estudo-estatistica.git)
+   git clone [https://github.com/ClaudiaSobral/wmc-grupo-estudo-estatistica.git](https://github.com/ClaudiaSobral/wmc-grupo-estudo-estatistica.git)
